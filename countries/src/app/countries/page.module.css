@@ -1,0 +1,13 @@
+.countrycard{
+    display: inline-block;
+    margin: 10px;
+    flex-direction: column;
+}
+.button{
+    background-color: aliceblue;
+    color: black;
+    width: 40px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
