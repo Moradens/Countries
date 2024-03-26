@@ -1,11 +1,10 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-
 import Link from "next/link";
+import styles from "./globals.css";
 
 export default function Home() {
     return (
         <>
+            <p>Click here:</p>
             <Link href="/countries">
                 <p>Countries</p>
             </Link>
